@@ -2,8 +2,8 @@
 //  RootViewController.m
 //  ColorPicker
 //
-//  Created by midea on 16/1/15.
-//  Copyright (c) 2016年 midea. All rights reserved.
+//  Created by fonglaaam on 16/1/15.
+//  Copyright (c) 2016年 fonglaaam. All rights reserved.
 //
 
 #import "RootViewController.h"
